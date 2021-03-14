@@ -8,7 +8,7 @@ pkg install mpv<br/>
 pkg install git<br/>
 
 cara menjalankan <br/>
-git clone https://github.com/firmantsani/shopee.co.id<br/>
+git clone https://github.com/tragedy31/shopee.co.id<br/>
 cd shopee.co.id<br/>
 php shopee.php<br/>
 <br/>
